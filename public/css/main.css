@@ -1,0 +1,5 @@
+.profile-body{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
